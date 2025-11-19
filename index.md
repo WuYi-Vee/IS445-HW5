@@ -6,7 +6,7 @@
     The Data
   </a>
   |
-  <a href="https://github.com/WuYi-Vee/IS445-HW5/blob/main/bfro_altair.ipynb" target="_blank">
+  <a href="https://github.com/WuYi-Vee/IS445-HW5/blob/main/Workbook.ipynb" target="_blank">
     The Analysis
   </a>
 </p>
