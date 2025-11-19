@@ -48,7 +48,7 @@ This grouped table is used as the input for the first visualization.
 
 ---
 
-## Visualization 2: Yearly trend and 3-year rolling average
+## Visualization 2: Map of Bigfoot Sightings
 
 <iframe src="bfro_chart2.html" width="100%" height="600" style="border:0;"></iframe>
 
