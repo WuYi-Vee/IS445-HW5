@@ -57,5 +57,5 @@ I reused the cleaned dataset from the first visualization. For this map I remove
 
 For the first plot, I added a dropdown menu for the season using an Altair parameter. The chart is filtered with `transform_filter(alt.datum.season == season_param)` so that only reports from the selected season are shown. This interaction makes the visualization more interesting and clearer, because the viewer can easily compare how state rankings change across different seasons without putting all seasons on the same crowded chart.
 
-For the second plot, I did not add a dropdown, but the map still has interactive tooltips.  When I hover over a circle, I can see the state code, season, year, and a short title. This makes the map more informative without adding text labels everywhere on the figure.
+For the second plot, I did not add a dropdown, but the map still has interactive tooltips.  When I hover over a circle, I can see the state code, season, year, and a short title, which makes the map more informative.
 
